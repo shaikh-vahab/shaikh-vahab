@@ -2,7 +2,9 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python & Java
 - 💞️ I’m looking to collaborate on I’m looking to collaborate on exciting projects, especially those involving web development or open-source contributions.
-- 📫 How to reach me Feel free to reach me via  Insta-vahab_Kandhari And Linkdin :- https://www.linkedin.com/in/vahab-shaikh-b79679295/
+- 📫 How to reach me Feel free to reach me via
+-  Insta-vahab_Kandhari 
+-  Linkdin :- https://www.linkedin.com/in/vahab-shaikh-b79679295/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and coding challenges in my free time!
 
